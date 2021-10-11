@@ -1,0 +1,7 @@
+C:\PERKULIAHAN\semester 5\WCF\Code1\Code1\bin\Code1.dll.config
+C:\PERKULIAHAN\semester 5\WCF\Code1\Code1\bin\Code1.dll
+C:\PERKULIAHAN\semester 5\WCF\Code1\Code1\bin\Code1.pdb
+C:\PERKULIAHAN\semester 5\WCF\Code1\Code1\obj\Debug\Code1.csproj.AssemblyReference.cache
+C:\PERKULIAHAN\semester 5\WCF\Code1\Code1\obj\Debug\Code1.csproj.CoreCompileInputs.cache
+C:\PERKULIAHAN\semester 5\WCF\Code1\Code1\obj\Debug\Code1.dll
+C:\PERKULIAHAN\semester 5\WCF\Code1\Code1\obj\Debug\Code1.pdb
